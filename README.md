@@ -102,7 +102,7 @@ Recognizes a person from an image using DeepFace.
 
 # Potential Uses
 This API can be utilized in various applications, including but not limited to:
-1. Security Systems
+1. Security Systems:
 Implement facial recognition for secure access control in buildings or sensitive areas.
 2. User Authentication:
 Use facial recognition as an additional layer of authentication in web or mobile applications.
