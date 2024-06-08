@@ -9,6 +9,7 @@ This project provides a simple Flask-based API for facial recognition using Deep
   - [GET /](#get-)
   - [POST /register_person](#post-register_person)
   - [POST /recognize_person](#post-recognize_person)
+  - [Potential Uses](#potential-uses)
 
 ## Installation
 
@@ -98,3 +99,16 @@ Recognizes a person from an image using DeepFace.
     "name": "John Doe"
   }
   ```
+
+# Potential Uses
+This API can be utilized in various applications, including but not limited to:
+1. Security Systems
+Implement facial recognition for secure access control in buildings or sensitive areas.
+2. User Authentication:
+Use facial recognition as an additional layer of authentication in web or mobile applications.
+3. Attendance Systems:
+Automate attendance tracking in schools, universities, or workplaces by recognizing faces.
+4. Personalized Customer  Experiences:
+Provide personalized experiences in retail or hospitality by recognizing returning customers.
+5. Photo Organization:
+Automatically tag and organize photos to specific folders based on recognized faces.
